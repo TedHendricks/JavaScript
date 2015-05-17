@@ -1,0 +1,82 @@
+/* Author: Ted Hendricks */
+
+/* Define the character set */
+@charset "utf-8";
+
+body {
+    margin: 2em;
+    background-color: lightyellow;
+}
+
+table {
+    margin: auto;
+    border: solid thin black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid thin black;
+    background-color: lightblue;
+}
+
+td img {
+    vertical-align: bottom;
+}
+
+thead th{
+    padding: .5em;
+}
+
+tfoot td{
+    padding: .5em;
+}
+
+#btns {
+    text-align: center;
+}
+
+button {
+    background-color: lightgray;
+}
+
+/* Author: Ted Hendricks */
+
+/* Define the character set */
+@charset "utf-8";
+
+body {
+    margin: 2em;
+    background-color: lightyellow;
+}
+
+table {
+    margin: auto;
+    border: solid thin black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: solid thin black;
+    background-color: lightblue;
+}
+
+td img {
+    vertical-align: bottom;
+}
+
+thead th{
+    padding: .5em;
+}
+
+tfoot td{
+    padding: .5em;
+}
+
+#btns {
+    text-align: center;
+}
+
+button {
+    background-color: lightgray;
+}
+

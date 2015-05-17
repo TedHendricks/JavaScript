@@ -1,0 +1,25 @@
+/* Author: Ted Hendricks */
+
+/* Define the character set */
+@charset "utf-8";
+
+body {
+	background-color: rgb(211, 211, 211);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+#words {
+	background-color: rgb(255, 255, 224);
+	color: rgb(254, 10, 0);
+	width: 500px;
+	margin: auto;
+	border: 1px solid black;
+}
+ p {
+ 	padding: 15px;
+ 	line-height: 25px;
+ }
